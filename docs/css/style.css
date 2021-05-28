@@ -41,7 +41,7 @@ li {
 }
 
 .section:nth-of-type(odd) {
-  background-color: #400040;
+  background-color:img
 }
 
 .inner {
