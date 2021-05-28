@@ -3,7 +3,7 @@ body {
   font-size: 14px;
   line-height: 1.8;
   letter-spacing: .8px;
-  color: #333;
+  color: #0080ff;
 }
 
 a {
@@ -41,7 +41,7 @@ li {
 }
 
 .section:nth-of-type(odd) {
-  background-color:img
+  background-color: #400040;
 }
 
 .inner {
