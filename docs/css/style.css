@@ -41,7 +41,7 @@ li {
 }
 
 .section:nth-of-type(odd) {
-  background-image:url(img/paint_00189.jpg);
+  background-color: #f7f7f7;
 }
 
 .inner {
