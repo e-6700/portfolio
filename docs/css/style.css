@@ -41,7 +41,7 @@ li {
 }
 
 .section:nth-of-type(odd) {
-  background-color: #f7f7f7;
+  background-color: #400040;
 }
 
 .inner {
@@ -203,7 +203,7 @@ li {
   padding: 10px;
   cursor: pointer;
   text-align: center;
-  background-color: #00ff00;
+  background-color: #4c4c4c;
 }
 
 .page-top .material-icons-outlined {
